@@ -36,11 +36,11 @@
     <color-profile
        name="Agfa-:-Swop-Standard"
        xlink:href="file:///C:/WINDOWS/system32/spool/drivers/color/RSWOP.icm"
-       id="color-profile39997" />
+       id="color-profile190" />
     <color-profile
        name="sRGB-IEC61966-2.1"
        xlink:href="file:///C:/WINDOWS/system32/spool/drivers/color/sRGB%20Color%20Space%20Profile.icm"
-       id="color-profile39999" />
+       id="color-profile192" />
   </defs>
   <sodipodi:namedview
      id="namedview39"
@@ -53,15 +53,15 @@
      inkscape:deskcolor="#e4e4e4"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="0.38214881"
-     inkscape:cx="1112.1322"
-     inkscape:cy="1020.5449"
+     inkscape:zoom="1.0808801"
+     inkscape:cx="1291.5402"
+     inkscape:cy="1537.6359"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="-8"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg37" />
+     inkscape:current-layer="svgGroup" />
   <g
      id="svgGroup"
      stroke-linecap="round"
@@ -116,7 +116,8 @@
        vector-effect="non-scaling-stroke" />
     <g
        id="g34678"
-       style="stroke:#ff0000;stroke-width:0.0003937;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.0003937;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.0060809,0,0,0.99999971,-0.04428881,5.1661774e-6)">
       <path
          id="rect9794"
          style="fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.0003937;stroke-dasharray:none;stroke-opacity:1"
@@ -140,8 +141,7 @@
        style="white-space:pre;shape-inside:url(#rect35472);display:inline;fill:none;fill-opacity:0;stroke:#ff0000;stroke-width:0.0377953;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
-     aria-label="MWR
-"
+     aria-label="MWR "
      transform="scale(0.70377176,1.4209152)"
      id="text37003"
      style="font-size:2.2709px;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.125">
