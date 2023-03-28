@@ -1,0 +1,16 @@
+Adafruit-BBIO==1.1.1
+Click==7.0
+colorama==0.3.7
+decorator==4.3.0
+distro==1.3.0
+Flask==1.0.2
+itsdangerous==0.24
+Jinja2==2.10
+MarkupSafe==1.1.0
+numpy==1.16.2
+PyAudio==0.2.13
+pyctrl==0.4.3
+pygame==1.9.6
+rcpy==0.5.1
+scipy==1.1.0
+Werkzeug==0.14.1
